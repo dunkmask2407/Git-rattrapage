@@ -1,5 +1,5 @@
-6-a) git pull permet de synchroniser le contenu du répectoire local et du  répectoire distant
-git fetch permet de faire parvenir au dépot distant quelques modifications du contenu du répectoire locale
+6-a) git pull permet de télécharger le contenu d'un autre répectoire et/ou de son propre répectoire
+git fetch permet de télécharger le contenu d'un autre répectoire
 b) on peut le faire en utilisant la commande git remove  
-c) on peut le faire en utilisant la commande git branch del
+c) on peut le faire en utilisant la commande git branch -d
 d) on peut le faire en utilisant la commande git log <nom du fichier>
